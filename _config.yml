@@ -1,0 +1,28 @@
+name: VGF Administrative Services
+favicon: null
+layout_spectrum: 0.005014709662646055
+typography_spectrum: 0.4764495533891022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9973643650300801
+  lightness: 0.8963153089862317
+  saturation: 0.3911888091824949
+  rhythmicContrast: 0.17820164281874895
+purpose: []
